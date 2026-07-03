@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saeed Abu Maghara</h1>
+<h1 align="center">Hi 👋, I'm Said Abou Maghara</h1>
 
 <h3 align="center">
-Computer Science Student | C++ & Python Developer | Problem Solver | Future Software Engineer
+Informatics Engineering Student | C++ & Python  | Problem Solver | Future AI Engineer
 </h3>
 
 <p align="center">
@@ -12,13 +12,13 @@ Computer Science Student | C++ & Python Developer | Problem Solver | Future Soft
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Learning Software Development step by step
+- 🎓 Informatics Engineering Student
+- 💻 Learning AI Engineering step by step
 - 🧠 Strong focus on Problem Solving
 - 🔥 Interested in C++ and Python
 - 🏗️ Building small and big projects
 - 🚀 Always improving my coding skills
-- 🎯 Goal: Become a professional Software Engineer
+- 🎯 Goal: Become a professional AI Engineer
 
 ---
 
@@ -85,15 +85,15 @@ Computer Science Student | C++ & Python Developer | Problem Solver | Future Soft
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/engsaidaboumaghara?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://www.instagram.com/eng_said_abu?igsh=MXNiMnEzN2xmNjQ5Yg==">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:saidaboumaghara@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
